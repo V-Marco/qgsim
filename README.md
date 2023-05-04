@@ -1,6 +1,6 @@
 # Quantum Game Simulator (`qgsim`)
 
-This is a replication of quantum game simulation procedure described by [[Eisert et al. (1999)]](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.83.3077?casa_token=N_Sf2S2q2MkAAAAA%3ATxq587jdMmML67LqSQGBvcJN52MQBSiNiPCwORBzh-jMmXKPMf5nq9EHxhYkx3fqmMsB9k--72RHcmg) and [[Du et al. (2002)]](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.88.137902?casa_token=noR-5V8QITQAAAAA%3A_nSFfYA1Vj291ZcwOKav6memmlB_dyKeyFa5lyWcM5pC-n2JP6nPaCEdwsbyWouxuyCTrEQcPP-d4UI) using [[Qiskit]](https://qiskit.org). The simulator allows to run two-player games in normal form in which each player has two strategies and the payoffs can be represented in a 2x2 matrix.
+This is a replication of quantum game simulation procedure described by [[Eisert et al. (1999)]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.83.3077) and [[Du et al. (2002)]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.88.137902) using [[Qiskit]](https://qiskit.org). The simulator allows to run two-player games in normal form in which each player has two strategies and the payoffs can be represented in a 2x2 matrix.
 
 ## Basic Usage
 
