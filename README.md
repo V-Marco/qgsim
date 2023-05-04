@@ -1,0 +1,2 @@
+# qgsim
+Quantum Game Simulator
